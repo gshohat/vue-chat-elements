@@ -1,7 +1,8 @@
 {
   "name": "vue-chat-elements",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Gilad Shohat",
+  "description": "Vue chat components",
   "homepage": "https://github.com/gshohat/vue-chat-elements#readme",
   "license": "MIT",
   "main": "./dist/chat-elements.umd.js",

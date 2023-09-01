@@ -1,6 +1,6 @@
 # Vue chat elements
 
-![NPM License](https://img.shields.io/npm/l/vue-chat-elements)
+[![NPM License](https://img.shields.io/npm/l/vue-chat-elements)]()
 
 Stealth Mode 🤫
 
