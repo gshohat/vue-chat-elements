@@ -4,6 +4,8 @@
 
 **Lightweight** chat components for [Vue](https://vuejs.org/) **< 5k** 😎 <br>
 
+![chat-item](https://github.com/gshohat/vue-chat-elements/assets/91323932/68a9f5cf-3bf0-42ed-90ca-aa226d6da935)
+
 ## Usage
 
 `npm i vue-chat-elements`
