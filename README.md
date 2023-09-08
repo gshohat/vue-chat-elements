@@ -4,7 +4,7 @@
 
 **Lightweight** chat components for [Vue](https://vuejs.org/) **< 5k** 😎 <br>
 
-![chat-item](https://github.com/gshohat/vue-chat-elements/assets/91323932/68a9f5cf-3bf0-42ed-90ca-aa226d6da935)
+![chat-item](https://github-production-user-asset-6210df.s3.amazonaws.com/91323932/266632052-68a9f5cf-3bf0-42ed-90ca-aa226d6da935.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230908%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230908T135922Z&X-Amz-Expires=300&X-Amz-Signature=3acc13f864c0ed2521d545e135ff7b9fac3977a198ed31254a525b2dbb4fdab8&X-Amz-SignedHeaders=host&actor_id=91323932&key_id=0&repo_id=685670567)
 
 ## Usage
 
